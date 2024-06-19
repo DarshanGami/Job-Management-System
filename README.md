@@ -1,7 +1,9 @@
 # Job-Management-System (DBMS)
 
-# Project Overview :
+Project assigned by : Prof. Pokhar Mal Jat (DAIICT) College : Dhirubhai Ambani Institute of Information and Communication Technology (DAIICT).
+Group Members(2) : Darshan Gami, Ajay Chovatiya.
 
+# Project Overview :
 Name : Job Management System
 Technologies Used : PostgreSQL, pgAdmin
 Concepts Used : ER Diagram, Functional Dependencies, Relational Database Design
