@@ -13,13 +13,13 @@
 * Company Registration : Companies can create an account and register their company details. Companies can post job openings.
 * User Functionality : Users can create an account. Users can browse and apply for job openings. Users can check the status of their job applications.
 
-### Database Design:
+### Database Design :
 * ER Diagram : Entities - Company, User, Application...
 * Relationships : A company can post multiple jobs, a user can apply to multiple jobs, each application is linked to a specific job and user.
 * Functional Dependencies : Ensuring the database is normalized by identifying and organizing functional dependencies.
 * Relational Schema : Designing relational schemas based on the ER diagram.
 
-### PostgreSQL & pgAdmi:
+### PostgreSQL & pgAdmin :
 * PostgreSQL : Database management system used to implement the relational schema. Writing SQL queries to handle CRUD operations (Create, Read, Update, Delete) for companies, jobs, users, and applications.
 
 ### Application Process :
